@@ -1,5 +1,9 @@
 # erio-vuex-persist
 
+[![Build Status](https://travis-ci.org/Erioifpud/erio-vuex-persist.svg?branch=master)](https://travis-ci.org/Erioifpud/erio-vuex-persist)
+[![npm](https://img.shields.io/npm/v/erio-vuex-persist.svg?color=red)](http://npmjs.com/erio-vuex-persist)
+[![license](https://img.shields.io/github/license/erioifpud/erio-vuex-persist.svg)]()
+
 另一个 Vuex Storage 同步插件。
 
 参考了 [vuex-persist](https://github.com/championswimmer/vuex-persist)
